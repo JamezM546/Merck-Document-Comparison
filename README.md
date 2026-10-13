@@ -1,3 +1,5 @@
+![Merck-Document-Comparison](https://socialify.dev/JamezM546/Merck-Document-Comparison/image?custom_description=Python+tool+for+accurate+DOCX+comparisons+and+tracked+changes&description=1&font=Rokkitt&language=1&name=1&pattern=Floating+Cogs&theme=Dark)
+
 # Merck-Document-Comparison
 
 **Goal:** Compare two Word `.docx` files and produce a new document with **Track Changes** markup, with better behavior on tables/headers and formatting noise than a naive compare.
